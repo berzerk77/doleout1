@@ -1,7 +1,7 @@
-# HandMeDown
+# DoleOut
 # PRIVACY NOTICE
 
-Last updated October 05, 2020
+Last updated December 30, 2020
 
 
 
